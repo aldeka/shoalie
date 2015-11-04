@@ -3,5 +3,6 @@
   "unused": true,
   "curly": true,
   "browser": true,
-  "browserify": true
+  "browserify": true,
+  "devel": true
 }
