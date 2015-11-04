@@ -19,5 +19,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Karen Rustad Tölva",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/aldeka/shoalie"
 }
