@@ -8,7 +8,7 @@ var React = require('react'),
 
 ReactDOM.render(
     <Client />,
-    document.getElementById('content')
+    document.getElementById('shoalie')
 );
 // $('form').submit(function(){
 //   socket.emit('chat message', $('#m').val());
