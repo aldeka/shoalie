@@ -2,6 +2,6 @@
   "undef": true,
   "unused": true,
   "curly": true,
-  "node": true,
-  "predef": [ "document" ]
+  "browser": true,
+  "browserify": true
 }
